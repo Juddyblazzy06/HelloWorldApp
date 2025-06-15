@@ -6,6 +6,7 @@ namespace HelloWorldApp
     {
         static void Main(string[] args)
         {
+            // Bincom Academy First Assignment
             System.Diagnostics.Debug.WriteLine("Hello, World from Jude Amiens!");
         }
     }
